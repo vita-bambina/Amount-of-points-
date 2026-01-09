@@ -5,4 +5,4 @@ if x < y: 0 points (loss)
 if x = y: 1 point (tie)
 We need to write a function that takes this collection and returns the number of points our team (x) got in the championship by the rules given above.
 
-Solution to The Given Task: Firt of i 
+Solution to The Given Task: First of i created a function, then i used a variable named total to store in the counts and do the calculations, used a forloop to check each of the scores in the array like one by one , then i used game.split to split the string into an array wherever it sees(:) and .map(number) to convert all the string into an array and i used the if to check if the condtion is true , and else if (if its  a tie) 
